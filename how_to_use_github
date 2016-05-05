@@ -21,4 +21,3 @@ git commit -m "edit_log" 修改文件路径
 git push 
 需要进入到和远程仓储同名的名录中。
 把修改提交到远程仓储中。
-
